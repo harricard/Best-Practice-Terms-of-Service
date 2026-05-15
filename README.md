@@ -72,10 +72,10 @@ These Terms are governed by the laws of the Province of British Columbia and the
 
 Questions regarding these Terms may be directed to:
 
-**Onni Contracting Ltd.**
+**Onni Contracting Ltd.** — Legal
 200–1010 Seymour Street
 Vancouver, BC V6B 3M6, Canada
-[support@onni.com](mailto:support@onni.com)
+[legal@onni.com](mailto:legal@onni.com)
 
 ---
 
