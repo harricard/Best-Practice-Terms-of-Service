@@ -1,8 +1,8 @@
-# Terms of Service — Onni Vault
+# Terms of Service — Onni Best Practices
 
 **Effective date:** May 14, 2026
 
-These Terms of Service (the "Terms") govern your access to and use of the Onni Vault mobile application (the "App"), operated by **Onni Contracting Ltd.** By creating an account, signing in, or otherwise using the App, you agree to these Terms and to the [Privacy Policy](https://github.com/harricard/Best-Practice-Privacy-Policy). If you do not agree, do not use the App.
+These Terms of Service (the "Terms") govern your access to and use of the Onni Best Practices mobile application (the "App"), operated by **Onni Contracting Ltd.** By creating an account, signing in, or otherwise using the App, you agree to these Terms and to the [Privacy Policy](https://github.com/harricard/Best-Practice-Privacy-Policy). If you do not agree, do not use the App.
 
 ---
 
@@ -34,7 +34,7 @@ You agree that you will not, and will not attempt to:
 
 ## 5. Intellectual property
 
-The App and all Content are the property of Onni and/or its affiliates, licensors, and suppliers, and are protected under Canadian and other intellectual-property laws. Onni grants you a limited, non-exclusive, non-transferable, revocable licence to access and use the App and Content solely for your authorized internal business use, for as long as your account remains active and in good standing. You acquire no ownership rights in the App or Content. "ONNI," "Onni Vault," and related names and logos are trademarks of Onni and/or its affiliates and may not be used without prior written consent. All rights not expressly granted are reserved.
+The App and all Content are the property of Onni and/or its affiliates, licensors, and suppliers, and are protected under Canadian and other intellectual-property laws. Onni grants you a limited, non-exclusive, non-transferable, revocable licence to access and use the App and Content solely for your authorized internal business use, for as long as your account remains active and in good standing. You acquire no ownership rights in the App or Content. "ONNI," "Onni Best Practices," and related names and logos are trademarks of Onni and/or its affiliates and may not be used without prior written consent. All rights not expressly granted are reserved.
 
 ## 6. AI-generated content
 
